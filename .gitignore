@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dev-dist/
+coverage/
+test-results/
+playwright-report/
+# 個人備份檔不可進入公開 repo（Arch 第 7 節）
+backup/
+gymlog_backup_*.json
+gymlog_sets_*.csv
+*.tsbuildinfo
